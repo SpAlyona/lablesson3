@@ -1,0 +1,2 @@
+include ':app', ':IntentApp', ':Share', ':ResultActivity', ':SimpleFragmentApp', ':SystenIntentsApp'
+rootProject.name='My Application'
